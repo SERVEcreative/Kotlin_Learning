@@ -6,3 +6,8 @@ fun main(args: Array<String>) {
   {
       println("I am learning kotlin and working on different branch")
   }
+
+  fun learning1()
+  {
+      println("HEllo there i am currently goood")
+  }
